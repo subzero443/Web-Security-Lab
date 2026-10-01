@@ -1,16 +1,10 @@
 # Screenshots
 <p align="center">
-   <img src="Screenshot 2026-10-01 141304.png">
-   
-
- 
- 
- 
- 
- 
- 
- 
- 
+   <img src="Screenshot 2026-10-01 142101.png">
+    <img src="Screenshot 2026-10-01 141304.png">
+    <img src="Screenshot 2026-10-01 134633.png">
+</p>
+     
  # Breakpoint Web Security Lab
 
 A local-only training application comparing deliberately vulnerable examples with secure implementations. It uses a React + Tailwind frontend, Flask API, and synthetic SQLite data.
